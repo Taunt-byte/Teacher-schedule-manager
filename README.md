@@ -14,7 +14,7 @@ Esse repositorio é um desafio do professor <a href="https://www.linkedin.com/in
 - Ver uma visão geral dos compromissos do dia ou da semana
 - Categorizar eventos por tipo (trabalho, grupo de estudo, exercícios, etc.)
 - Sincronizar com outros calendários (como o Google Calendar)
-
+- essa aplicação e exclussiva de desktop e funciona como app no computador feito em python
 ## Demonstração
 
 Insira um gif ou um link de alguma demonstração
